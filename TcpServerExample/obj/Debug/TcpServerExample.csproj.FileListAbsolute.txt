@@ -1,0 +1,7 @@
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TcpServerExample\bin\Debug\TcpServerExample.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TcpServerExample\bin\Debug\TcpServerExample.exe
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TcpServerExample\bin\Debug\TcpServerExample.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TcpServerExample\obj\Debug\TcpServerExample.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TcpServerExample\obj\Debug\TcpServerExample.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TcpServerExample\obj\Debug\TcpServerExample.exe
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TcpServerExample\obj\Debug\TcpServerExample.pdb

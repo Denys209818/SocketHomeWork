@@ -1,0 +1,7 @@
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\UDPExample\bin\Debug\UDPExample.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\UDPExample\bin\Debug\UDPExample.exe
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\UDPExample\bin\Debug\UDPExample.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\UDPExample\obj\Debug\UDPExample.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\UDPExample\obj\Debug\UDPExample.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\UDPExample\obj\Debug\UDPExample.exe
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\UDPExample\obj\Debug\UDPExample.pdb

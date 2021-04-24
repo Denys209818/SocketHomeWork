@@ -1,0 +1,7 @@
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TCPClientExample\bin\Debug\TCPClientExample.exe.config
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TCPClientExample\bin\Debug\TCPClientExample.exe
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TCPClientExample\bin\Debug\TCPClientExample.pdb
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TCPClientExample\obj\Debug\TCPClientExample.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TCPClientExample\obj\Debug\TCPClientExample.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TCPClientExample\obj\Debug\TCPClientExample.exe
+C:\Users\Denis\Desktop\WPF HomeWork\UDP_TCP_Example\TCPClientExample\obj\Debug\TCPClientExample.pdb
